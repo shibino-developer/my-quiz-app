@@ -1,0 +1,89 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "Stephen King", "Charles Dickens"],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+        "correctAnswer": "Mars"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "George Orwell", "Jane Austen", "Mark Twain"],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3", "5"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Pb"],
+        "correctAnswer": "Au"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "India"],
+        "correctAnswer": "Japan"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "correctAnswer": "Diamond"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "Abraham Lincoln", "John Adams", "George Washington"],
+        "correctAnswer": "George Washington"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+        "correctAnswer": "Jupiter"
+    },
+    {
+        "question": "What is the primary ingredient in traditional Japanese miso soup?",
+        "options": ["Soybeans", "Fish", "Rice", "Seaweed"],
+        "correctAnswer": "Soybeans"
+    },
+    {
+        "question": "Which artist painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "correctAnswer": "100°C"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Silver", "Iron"],
+        "correctAnswer": "Oxygen"
+    }
+
+  ]
+  
